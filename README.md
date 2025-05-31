@@ -1,8 +1,3 @@
-Great! Here's the complete `README.md` content you can **copy and paste** into your file:
-
----
-
-````markdown
 # 🐍 Data Analysis with Python
 
 ## 📌 Introduction
@@ -66,7 +61,7 @@ Data-Analysis-with-Python/
 ├── images/             # Screenshots or output images
 ├── README.md           # This file
 └── requirements.txt    # Python dependencies
-````
+
 
 ---
 
@@ -95,7 +90,7 @@ Data-Analysis-with-Python/
 
 ## ✍️ Author
 
-* **Your Name** – [Your GitHub](https://github.com/yourusername)
+* **Your Name** – [Md. Jahidul Alam](https://github.com/jahidsagar)
 
 ---
 
