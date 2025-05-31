@@ -118,16 +118,3 @@ Data-Analysis-with-Python/
 * **Name** – [Md. Jahidul Alam](https://github.com/jahidsagar)
 
 ---
-
-```
-
----
-
-### ✅ Next Steps:
-
-- Replace `yourusername` and `Your Name` with your actual GitHub username and name.
-- If you're storing images or outputs, update the `images/` folder section with actual examples.
-- Keep the README updated as your project grows.
-
-Let me know if you want help generating a `requirements.txt` file or adding example images!
-```
