@@ -83,7 +83,8 @@ Data-Analysis-with-Python/
 
 1. Clone the repository:
 
-   ```bash
+   ```
+   bash
    git clone https://github.com/yourusername/Data-Analysis-with-Python.git
    cd Data-Analysis-with-Python
    ```
