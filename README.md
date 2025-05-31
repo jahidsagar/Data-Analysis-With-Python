@@ -115,7 +115,7 @@ Data-Analysis-with-Python/
 
 ## ✍️ Author
 
-* **Your Name** – [Md. Jahidul Alam](https://github.com/jahidsagar)
+* **Name** – [Md. Jahidul Alam](https://github.com/jahidsagar)
 
 ---
 
