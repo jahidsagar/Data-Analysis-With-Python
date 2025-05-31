@@ -67,9 +67,12 @@ This repository contains basic data analysis operations using popular Python lib
 ```text
 Data-Analysis-with-Python/
 │
-├── data/               # Contains CSV or other datasets
-├── notebooks/          # Jupyter notebooks with code and analysis
-├── images/             # Screenshots or output images
+├── pandas               # Contains CSV or other datasets
+├── numpy          # Jupyter notebooks with code and analysis
+├── matplotlib
+├── seaborn
+├── insurance.csv
+├── tips.csv             # Screenshots or output images
 ├── README.md           # This file
 └── requirements.txt    # Python dependencies
 
