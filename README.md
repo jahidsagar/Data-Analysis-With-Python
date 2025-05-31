@@ -28,9 +28,20 @@ This repository contains basic data analysis operations using popular Python lib
 1. Reading a CSV file using `read_csv()`
 2. Viewing the first few rows with `head()`
 3. Getting basic info with `info()` and `describe()`
-4. Data selection using `loc[]` and `iloc[]`
-5. Filtering and sorting data
-6. Grouping and aggregating
+4. Displaying data types with `dtypes`
+5. Checking null values with `isnull()` and `isnull().any()`
+6. get total count of null values with `isnull().sum()`
+7. Fill null value using the mean value with `fillna(df.colName.mean())`
+8. Fill null values using upper cell and lower cell value with `fillna(method='ffill', inplace=True)`, `ffill()` and `bfill()`
+9. Print all columns name with `df.columns`
+10. Rename column name with `df.rename(columns={'before':'after'})`
+11. Change data type with `astype()`
+12. Apply custom function to a specific column with `apply()`
+13. Grouping and aggregating with `groupby()`, `count()`, `mean()` and `sum()`
+14. Apply multiple aggregate functions with `agg(['mean', 'max', 'min'])`
+15.  Joining and Merging with `merge(df1, df2, on='key', how='inner')`, `merge(df1, df2, on='key', how='outer')`, `merge(df1, df2, on='key', how='left')` and `merge(df1, df2, on='key', how='right')`
+16. Data selection using `loc[]` and `iloc[]`
+17. Filtering and sorting data
 
 ### ➕ NumPy
 1. Creating arrays
