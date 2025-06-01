@@ -61,10 +61,14 @@ This repository contains basic data analysis operations using popular Python lib
 16. Logical operations: `arr1[(arr1 > 2) & (arr1 < 5)])` values greater then 2 and less then 5
 
 ### 📊 Matplotlib
-1. Plotting line graphs
-2. Bar charts
-3. Histograms
+1. Plotting line graphs with `plt.plot()`
+2. Bar charts with `plt.bar()`
+3. Histograms with `plt.hist()`
 4. Customizing plots (title, labels, legend)
+5. Sub-plot with `plt.subplot`
+6. Plotting scatter graph with `plt.scatter()`
+7. Pie chart with `plt.pie()`
+8. Real-Life pandas dataframe plotting with `df.plot()`
 
 ### 🌊 Seaborn
 1. Creating beautiful statistical plots
