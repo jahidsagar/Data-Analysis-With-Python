@@ -68,12 +68,15 @@ This repository contains basic data analysis operations using popular Python lib
 5. Sub-plot with `plt.subplot`
 6. Plotting scatter graph with `plt.scatter()`
 7. Pie chart with `plt.pie()`
-8. Real-Life pandas dataframe plotting with `df.plot()`
+8. Real-Life `pandas` dataframe plotting with `df.plot()`
 
 ### 🌊 Seaborn
 1. Creating beautiful statistical plots
-2. Plot types: `sns.histplot`, `sns.boxplot`, `sns.scatterplot`
-3. Styling and themes
+2. Loading data with `sns.load_dataset()`
+3. Plot types: `sns.histplot()`, `sns.boxplot()`, `sns.scatterplot()`, `sns.lineplot()`, `sns.barplot()`, `sns.boxplot()`
+4. Making pair plot to understand data with `sns.pairplot()`
+5. Making heat map from correlation with `sns.heatmap()`
+6. Real-life data analysis with `pandas` library and `seaborn` library
 
 ---
 
